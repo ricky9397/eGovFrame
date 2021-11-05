@@ -1,3 +1,34 @@
 1636030441261	Delete elements
 1636031531406	Delete element
 1636074753352	Delete element
+1636077152398	Move folder
+1636078492339	Move folder
+1636081427704	Move files
+1636082298969	Delete element
+1636082302779	Delete element
+1636082305877	Delete element
+1636082309409	Delete element
+1636082314302	Delete element
+1636082463406	Rename resource 'chart'
+1636083945687	Move folder
+1636084063147	Delete element
+1636084086758	Rename resource 'login'
+1636084090899	Rename resource 'user'
+1636084097393	Move file
+1636084126762	Move file
+1636084149052	Move file
+1636084186731	Delete element
+1636084240836	Rename package 'egovframework.example.user'
+1636084245983	Delete element
+1636084252030	Delete element
+1636084253589	Delete element
+1636084255095	Delete element
+1636086680082	Delete element
+1636087016541	Rename resource 'login'
+1636087513303	Rename type 'UserVO'
+1636087530360	Rename package 'egovframework.example.user.vo'
+1636087547656	Rename type 'UserController'
+1636087561858	Rename package 'egovframework.example.user.controller'
+1636087575953	Rename resource 'user'
+1636091190428	Delete element
+1636091551516	Rename type 'ModifiableHttpServletRequest'
