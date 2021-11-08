@@ -14,8 +14,22 @@
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequestWrapper"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
-<fullyQualifiedTypeName name="java.util.Enumeration"/>
-<fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
 <fullyQualifiedTypeName name="egovframework.example.utils.RequestUtil"/>
+<fullyQualifiedTypeName name="egovframework.example.Employee.controller.EmployeeController"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+<fullyQualifiedTypeName name="javax.annotation.Resource"/>
+<fullyQualifiedTypeName name="egovframework.example.Employee.service.EmployeeService"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="java.util.Enumeration"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.net.URLDecoder"/>
+<fullyQualifiedTypeName name="org.springmodules.validation.util.condition.collection.IsEmptyCollectionCondition"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="java.util.Base64"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.messaging.saaj.util.Base64"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.security.utils.Base64"/>
+<fullyQualifiedTypeName name="egovframework.rte.fdl.idgnr.impl.Base64"/>
+<fullyQualifiedTypeName name="org.apache.commons.codec.binary.Base64"/>
 </qualifiedTypeNameHistroy>

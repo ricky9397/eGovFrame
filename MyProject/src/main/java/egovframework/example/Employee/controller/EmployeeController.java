@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import egovframework.example.Employee.service.EmployeeService;
-import egovframework.example.utils.RequestUtil;
+import egovframework.example.utils.CommUtils;
 
 @Controller	
 public class EmployeeController {
@@ -26,7 +26,8 @@ public class EmployeeController {
 	
 	@RequestMapping(value = "join.do",  method = RequestMethod.POST )
 	public String joinView(HttpServletRequest request) throws Exception{
-		Map<String, Object> inOutMap = RequestUtil.getParameterMap(request);
+		Map<String, Object> inOutMap = CommUtils.getFormParam(request);
+		
 		return "employee/join";
 	}
 	
